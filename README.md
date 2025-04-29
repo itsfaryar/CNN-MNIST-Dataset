@@ -56,7 +56,7 @@ Non-trainable params: 0
 The model was evaluated on the test set, producing the following classification report:
 
 ```
-Train Predict Report===============
+Test Predict Report===============
 
               precision    recall  f1-score   support
 
